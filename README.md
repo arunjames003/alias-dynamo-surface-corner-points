@@ -4,10 +4,10 @@ Dynamo script for generating surfaces in Autodesk Alias from 3 or 4 corner point
 
 ## Table of Contents
 - [Features](#features)
-- [Usage](#usage)
-- [Installation](#installation)
+- [Installation / Usage](#installation--usage)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 
 ## Features
@@ -43,17 +43,11 @@ Dynamo script for generating surfaces in Autodesk Alias from 3 or 4 corner point
      - Open **Dynamo Player** in Alias.
      - Locate the script in the toolbox or browse to the downloaded `.dyn` file.
      - Configure any exposed input nodes and click **Run**.
+    
+## Contributing
+Contributions welcome! Please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-## Installation
-
-1. Clone this repository:
-
-2. Open the `.dyn` file in Dynamo within Autodesk Alias.
-
-## Usage
-
-- Launch Alias and make 3 or 4 points
-- open Dynamo Player, and load the script.
-- Input the 3 or 4 corner points.
-- select Accept and Build
