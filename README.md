@@ -39,9 +39,9 @@ Dynamo script for generating surfaces in Autodesk Alias from 3 or 4 corner point
 
    - Once the script loads, enter the 3 or 4 corner point coordinates as prompted.
    - Click **Accept** to confirm your selections, then click **Build** to generate the surface based on your inputs.
-   - <img width="1077" height="554" alt="image" src="https://github.com/user-attachments/assets/a0b7e896-0d4d-4cc1-bbe2-dddb0fedd528" />
+   <img width="1077" height="554" alt="image" src="https://github.com/user-attachments/assets/a0b7e896-0d4d-4cc1-bbe2-dddb0fedd528" />
 
-   - <img width="743" height="515" alt="image" src="https://github.com/user-attachments/assets/122e6bee-8366-4986-a92d-9ae72a71acad" />
+   <img width="743" height="515" alt="image" src="https://github.com/user-attachments/assets/122e6bee-8366-4986-a92d-9ae72a71acad" />
 
 
 
