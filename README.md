@@ -5,8 +5,7 @@ Dynamo script for generating surfaces in Autodesk Alias from 3 or 4 corner point
 ## Table of Contents
 - [Features](#features)
 - [Installation / Usage](#installation--usage)
-- [Installation / Usage](#installation--usage)
-- [Use cases](#use--cases)
+- [Use Cases](#use-cases)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -45,7 +44,7 @@ Dynamo script for generating surfaces in Autodesk Alias from 3 or 4 corner point
 
    <img width="743" height="515" alt="image" src="https://github.com/user-attachments/assets/122e6bee-8366-4986-a92d-9ae72a71acad" />
 
-## Use cases
+## Use Cases
 
 <img width="1293" height="708" alt="image" src="https://github.com/user-attachments/assets/3282711e-adce-4e00-9171-4347fd4e268b" />
 
